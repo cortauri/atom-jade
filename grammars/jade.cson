@@ -1,7 +1,7 @@
 'fileTypes': [
   'jade','pug'
 ]
-'name': 'Jade'
+'name': 'Jade/Pug'
 'patterns': [
   {
     'captures':
